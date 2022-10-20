@@ -99,7 +99,6 @@ p > a {
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
-    vertical-align: middle;
     text-overflow: ellipsis;
     touch-action: manipulation;
     color: #000;
