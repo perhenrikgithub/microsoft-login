@@ -117,3 +117,7 @@ p > a {
     background-color: #0067b8;
     display: block;
 }
+
+.button:hover {
+    cursor: pointer;
+}
